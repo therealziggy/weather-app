@@ -1,3 +1,4 @@
 node_modules
 .envtoken
 node_modules/
+.env
